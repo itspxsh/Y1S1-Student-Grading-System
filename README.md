@@ -1,13 +1,14 @@
 # Student Grading System
 
+## Example Output
+
+![Grade Graph Example](images/graph-example.png)
+
+
 ## English 🇺🇸
 
 **Computer Programming for Engineers Project**  
 **Title: Student Grading System**
-
-## Example Output
-
-![Grade Graph Example](images/graph-example.png)
 
 
 The *Student Grading System* is designed to help manage and evaluate student academic performance.  
